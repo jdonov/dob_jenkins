@@ -5,7 +5,9 @@
   </head>
   <body>
     <div align="center">
-	Test web application with Jenkins!
+	<h1>
+		Test web application with Jenkins!
+	</h1>
     </div>
   </body>
 </html>
