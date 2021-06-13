@@ -6,7 +6,7 @@
   <body>
     <div align="center">
 	<h1>
-		Test web application with Swappy Puppy!
+		Test web application with Jenkins!
 	</h1>
     </div>
   </body>
